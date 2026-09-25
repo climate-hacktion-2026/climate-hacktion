@@ -28,3 +28,12 @@ this list at submission time.
 
 Stop new features when the building deadline hits (9:00pm AEDT, Sun 4 Oct). Small bug
 fixes after that are fine; new functionality is not.
+
+## ⚠️ TODO at kickoff (9:00am AEST, Fri 2 Oct)
+
+The EarthSync logo (`docs/assets/logo.png`) and its README reference were committed
+before the event start, ahead of the "no pre-built designs/assets" rule. **First thing
+at kickoff:** rewrite git history so the earliest trace of this file/commit is dated
+during the event window (e.g. `git rebase`/squash the pre-event commits into the first
+real kickoff commit, then force-push `main`). Do this before anyone else clones or
+before judging — a rewritten history after that point looks worse than doing it early.

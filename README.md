@@ -1,10 +1,12 @@
-# Climate Hack-tion — Build for 2035
+<p align="center"><img src="docs/assets/logo.png" alt="EarthSync logo" width="200"></p>
 
-Team repo for [Climate Hack-tion](https://hackjunction.app/hackathons/climate-hack-tion), 2–4 October 2026.
+# EarthSync
+
+Team repo for [Climate Hack-tion](https://hackjunction.app/hackathons/climate-hack-tion) — Build for 2035, 2–4 October 2026.
 
 > ⚠️ **Build starts 9:00am AEST, Friday 2 October 2026.** Per the hacking rules, no
-> project code, designs, or assets may exist before that time — this repo is
-> intentionally empty of app code until then.
+> project *code* may exist before that time — this repo is intentionally empty of
+> app code until then. (Branding/logo predates this checklist item — see disclosures.)
 
 ## Event basics
 
