@@ -13,7 +13,7 @@ Team repo for [Climate Hack-tion](https://hackjunction.app/hackathons/climate-ha
 | Theme | Build for 2035 — turn a COP31 priority into a practical, testable solution |
 | Format | Fully online — Junction (hub), Discord (community), Webex (closing) |
 | Dates | Opens 9:00am Fri 2 Oct → Submissions close 9:00pm Sun 4 Oct (AEST/AEDT) |
-| Team nationality | TBD (Australia / New Zealand / Pacific Islands) |
+| Team nationality | Australia |
 | Repo visibility | Public, must stay live until winners are announced |
 
 Links: [Event hub](https://hackjunction.app/hackathons/climate-hack-tion) ·
